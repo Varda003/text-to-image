@@ -1,7 +1,7 @@
 # Text - t- - Image Generator App
 
-![UI Design](assets/image1.png) <!-- Replace with the actual path -->
-*Figure 2: User Interface Design.*
+![UI Design](img/Img1.png) <!-- Replace with the actual path -->
+*Figure 1: User Interface Design.*
 <br><br>
 <br><br>
 
