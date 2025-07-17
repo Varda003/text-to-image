@@ -1,4 +1,4 @@
-# Text - t- - Image Generator App
+# Text - to - Image Generator App
 
 ![UI Design](Img/Img1.png) <!-- Replace with the actual path -->
 *Figure 1: User Interface Design.*
