@@ -1,3 +1,10 @@
+# Text - t- - Image Generator App
+
+![UI Design](assets/image1.png) <!-- Replace with the actual path -->
+*Figure 2: User Interface Design.*
+<br><br>
+<br><br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
